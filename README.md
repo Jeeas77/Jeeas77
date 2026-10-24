@@ -16,7 +16,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [jumper-game](https://github.com/Jeeas77/jumper-game) | Браузерная аркада в стиле Doodle Jump: бонусы, враги, щит, выбор цвета, открываемые рекордом. [Играть](https://jeeas77.github.io/jumper-game/) | JavaScript, HTML5 Canvas |
+| [jumper-game](https://github.com/Jeeas77/jumper-game) | Браузерная аркада в стиле Doodle Jump: бонусы, враги, щит, выбор цвета, открываемые рекордом. [В браузере](https://jeeas77.github.io/jumper-game/) · [В Telegram](https://t.me/jumper_game_bot) | JavaScript, HTML5 Canvas, Telegram Bot |
 
 ## 📫 Связь
 
